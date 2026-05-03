@@ -51,10 +51,13 @@ Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arq
 
 ## 🛠️ Tech Stack
 
-* **Lenguajes:** Python, Java, C++, SQL, VHDL, TypeScript
+* **Lenguajes:** Python, Java, C / C++, SQL, VHDL, TypeScript, HTML / CSS / JavaScript
 * **Frontend:** React / Astro
 * **Backend:** APIs, arquitectura de sistemas
-* **Herramientas:** Git, Power BI, Excel
+* **Herramientas:** Git, Power BI, Excel, Visual Studio Code, IntelliJ, Eclipse
+* **Entornos & Sistemas:** Linux / Unix, Windows, macOS
+* **Colaboración:** JIRA, Trello, Slack, Microsoft Teams, Notion, Confluence
+* **Metodologías:** Agile (Scrum / Kanban)
 
 ---
 
