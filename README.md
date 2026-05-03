@@ -81,6 +81,7 @@ Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arq
 
 ## 📫 Contacto
 
+* Linkedin: https://www.linkedin.com/in/alberto-ortiz-gonzalez/
 * GitHub: https://github.com/albertoruler
 
 ---
