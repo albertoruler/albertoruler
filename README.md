@@ -29,7 +29,7 @@ Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arq
 
 ### 🌐 Desarrollo Web
 
-* **Web Portfolio** → https://github.com/albertoruler/web
+* **Web Portfolio** → https://albertoruler.github.io/web
 * **Clone Twitter/X** → https://github.com/albertoruler/practica4-PIW
 * **React API Project (Star Wars)** → https://github.com/albertoruler/practica1-PIW
 
