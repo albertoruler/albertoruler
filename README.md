@@ -19,7 +19,7 @@ Me interesa construir soluciones donde **seguridad, tecnología y negocio** conv
 
 ## 🚀 Proyectos
 
-### 🥗 Proyecto principal
+### 🥗 App Nutricional
 
 **NutriTrack**
 Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arquitectura modular.
