@@ -61,6 +61,14 @@ Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arq
 
 ---
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=albertoruler&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoruler&layout=compact)
+
+---
+
 ## 🔐 Ciberseguridad & Cumplimiento
 
 * GDPR, ISO 27001, ENS
