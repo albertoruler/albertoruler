@@ -63,9 +63,9 @@ Aplicación de seguimiento nutricional desarrollada con enfoque full-stack y arq
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=albertoruler&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=albertoruler&show_icons=true&theme=default&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoruler&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoruler&layout=compact&cache_seconds=86400)
 
 ---
 
